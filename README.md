@@ -1,4 +1,4 @@
-# Hand-written-digits-Recognzer
+# Hand-written-digits-Recognizer
 
 ## Setup
 You can go to ```colab.google.com``` and run it or if you have local setup you can run it there as well. 
